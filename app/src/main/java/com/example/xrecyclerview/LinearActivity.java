@@ -39,8 +39,8 @@ public class LinearActivity extends AppCompatActivity implements Toolbar.OnMenuI
         // init toolbar
         toolbar.setOnMenuItemClickListener(this);
 
-        mRecyclerView.setRefreshProgressStyle(ProgressStyle.SquareSpin);
-        mRecyclerView.setLoadingMoreProgressStyle(ProgressStyle.BallRotate);
+        mRecyclerView.setRefreshProgressStyle(ProgressStyle.LineSpinFadeLoader);
+        mRecyclerView.setLoadingMoreProgressStyle(ProgressStyle.LineSpinFadeLoader);
         mRecyclerView.setArrowImageView(R.drawable.iconfont_downgrey);
 
         View header = LayoutInflater.from(this).inflate(R.layout.recyclerview_header, (ViewGroup) findViewById(android.R.id.content), false);
