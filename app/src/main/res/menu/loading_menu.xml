@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/SysProgress"
+        android:orderInCategory="2"
+        android:title="SysProgress"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/BallPulse"
+        android:orderInCategory="2"
+        android:title="BallPulse"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallGridPulse"
+        android:orderInCategory="2"
+        android:title="BallGridPulse"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallClipRotate"
+        android:orderInCategory="2"
+        android:title="BallClipRotate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallClipRotatePulse"
+        android:orderInCategory="2"
+        android:title="BallClipRotatePulse"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/SquareSpin"
+        android:orderInCategory="2"
+        android:title="SquareSpin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallClipRotateMultiple"
+        android:orderInCategory="2"
+        android:title="BallClipRotateMultiple"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallPulseRise"
+        android:orderInCategory="2"
+        android:title="BallPulseRise"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallRotate"
+        android:orderInCategory="2"
+        android:title="BallRotate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/CubeTransition"
+        android:orderInCategory="2"
+        android:title="CubeTransition"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallZigZag"
+        android:orderInCategory="2"
+        android:title="BallZigZag"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallZigZagDeflect"
+        android:orderInCategory="2"
+        android:title="BallPulse"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallTrianglePath"
+        android:orderInCategory="2"
+        android:title="BallTrianglePath"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallScale"
+        android:orderInCategory="2"
+        android:title="BallScale"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/LineScale"
+        android:orderInCategory="2"
+        android:title="LineScale"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/LineScaleParty"
+        android:orderInCategory="2"
+        android:title="LineScaleParty"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallScaleMultiple"
+        android:orderInCategory="2"
+        android:title="BallScaleMultiple"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallPulseSync"
+        android:orderInCategory="2"
+        android:title="BallPulseSync"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallBeat"
+        android:orderInCategory="2"
+        android:title="BallBeat"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/LineScalePulseOut"
+        android:orderInCategory="2"
+        android:title="LineScalePulseOut"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/LineScalePulseOutRapid"
+        android:orderInCategory="2"
+        android:title="LineScalePulseOutRapid"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallScaleRipple"
+        android:orderInCategory="2"
+        android:title="BallScaleRipple"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallScaleRippleMultiple"
+        android:orderInCategory="2"
+        android:title="BallScaleRippleMultiple"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallSpinFadeLoader"
+        android:orderInCategory="2"
+        android:title="BallSpinFadeLoader"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/LineSpinFadeLoader"
+        android:orderInCategory="2"
+        android:title="LineSpinFadeLoader"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/TriangleSkewSpin"
+        android:orderInCategory="2"
+        android:title="TriangleSkewSpin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Pacman"
+        android:orderInCategory="2"
+        android:title="Pacman"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/BallGridBeat"
+        android:orderInCategory="2"
+        android:title="BallGridBeat"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/SemiCircleSpin"
+        android:orderInCategory="2"
+        android:title="SemiCircleSpin"
+        app:showAsAction="never" />
+</menu>
